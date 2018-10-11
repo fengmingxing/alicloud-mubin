@@ -2,3 +2,4 @@ FROM registry.cn-qingdao.aliyuncs.com/centos123/centos7.5:v1
 COPY test /t1
 #COPY /src/mulu /mu
 COPY src /src
+CMD ["/bin/bash sleep 3600"]
