@@ -20,4 +20,4 @@ spec:
         - containerPort: 8080
         
         
-        测试一下webhook
+        测试一下webhook 。测试一下codepipeline的自动构建，谢谢
